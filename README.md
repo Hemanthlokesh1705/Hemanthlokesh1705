@@ -81,11 +81,11 @@ Here’s where I build **actual AI systems**, not toy ML models:
 
 ---
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthlokesh1705&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemanthlokesh1705&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
