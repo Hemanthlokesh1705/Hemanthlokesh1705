@@ -29,7 +29,7 @@ If a model is slow, bloated, or inaccurate — I fix it.
 ## 🏆 Highlights in 10 Seconds
 
 - 🎓 **CSE-AI @ DSATM** — CGPA **9.48**  
-- 🎯 **Amazon ML Summer School** participant  
+- 🎯 **Amazon ML Summer School** Student 
 - 🤖 Built multiple end-to-end ML systems (CV + NLP + Time Series)  
 - 🧩 500+ DSA problems solved  
 - 🥇 Winner & Runner-up in coding + AI hackathons  
