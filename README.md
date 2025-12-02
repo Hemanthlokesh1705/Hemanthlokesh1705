@@ -84,7 +84,7 @@ Here’s where I build **actual AI systems**, not toy ML models:
 ## 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghost-AI-Engineer&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthlokesh1705&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
@@ -97,9 +97,21 @@ Here’s where I build **actual AI systems**, not toy ML models:
 ## 🧩 Coding Profiles
 
 <p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+
+  <a href="https://leetcode.com/u/Hemanth1705/">
+    <img src="https://img.shields.io/badge/LeetCode-Hemanth1705-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/hemanthlthl3">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-HemanthL-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/Hemanth1705">
+    <img src="https://img.shields.io/badge/Codeforces-Hemanth1705-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
 </p>
+
 
 ---
 
