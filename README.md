@@ -46,7 +46,7 @@ If a model is slow, bloated, or inaccurate — I fix it.
   <a href="mailto:hemanthlokesh58@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Ghost-AI-Engineer">
+  <a href="https://github.com/Hemanthlokesh1705?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -75,21 +75,21 @@ Transformers • BERT • CNNs • RNNs • NLP • Computer Vision • Time Ser
 Here’s where I build **actual AI systems**, not toy ML models:
 
 👉 **GitHub Profile:**  
-🔗 https://github.com/Ghost-AI-Engineer
+🔗 https://github.com/Hemanthlokesh1705
 
 > *All my ML/NLP/CV work lives here — real-world code, clean structure, deployable apps.*
 
 ---
 
-## 📊 GitHub Stats (100% Working)
+## 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ghost-AI-Engineer&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost-AI-Engineer&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanthlokesh1705&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ghost-AI-Engineer&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=Hemanthlokesh1705&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
@@ -106,11 +106,10 @@ Here’s where I build **actual AI systems**, not toy ML models:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghost-AI-Engineer&theme=react-dark&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthlokesh1705&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
-
 
 If you're looking for someone who can **develop AI + ship AI**,  
 I’m your guy.
