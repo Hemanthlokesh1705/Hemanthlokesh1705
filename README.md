@@ -1,133 +1,71 @@
-<!-- HEADER -->
-<h1 align="center">🚀 Hemanth L — AI/ML Engineer</h1>
-<h3 align="center">Building Intelligent Systems • Deploying Real-World ML • Solving Hard Problems</h3>
+# Hemanth L
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00eaff&size=25&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+Developer+%7C+CSE-AI+Student;Deep+Learning+%7C+NLP+%7C+Computer+Vision;I+build+models+that+actually+run+in+production" />
-</p>
+**AI Engineer · CSE-AI, DSATM · Bengaluru**
 
----
-
-<!-- ABOUT -->
-## 🧠 Who Am I?
-
-An AI/ML engineer who doesn’t just train models —  
-I deploy them, optimize them, and make them work in **real-world environments**.
-
-I’m obsessed with:
-
-- ⚡ High-accuracy deep learning models  
-- 🔍 NLP + Transformers  
-- 📦 ML system deployment (Flask, Streamlit, Docker)  
-- 📊 Time-series forecasting  
-- 🚀 Building fast, production-ready ML pipelines  
-
-If a model is slow, bloated, or inaccurate — I fix it.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-l-076680294)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hemanthlokesh1705)
+[![LeetCode](https://img.shields.io/badge/LeetCode-600%2B%20solved-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hemanth1705/)
+[![Email](https://img.shields.io/badge/Email-hemanthlokesh58%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hemanthlokesh58@gmail.com)
 
 ---
 
-## 🏆 Highlights in 10 Seconds
-
-- 🎓 **CSE-AI @ DSATM** — CGPA **9.48**  
-- 🎯 **Amazon ML Summer School** Student 
-- 🤖 Built multiple end-to-end ML systems (CV + NLP + Time Series)  
-- 🧩 500+ DSA problems solved  
-- 🥇 Winner & Runner-up in coding + AI hackathons  
-- 🐍 Strong Python + TensorFlow + Transformers expertise  
+Final-year B.E. Computer Science (AI) student at DSATM with a 9.57 GPA. I've shipped a full recommendation system and a conversational AI product at Tunect, and was selected among the top 0.3% of 80,000+ applicants for Amazon ML Summer School.
 
 ---
 
-## 🔗 Connect With Me
+## Experience
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hemanth-l-076680294">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:hemanthlokesh58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Hemanthlokesh1705?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**AI Engineer Intern — Tunect** *(Feb 2026 – May 2026)*
+- Built an end-to-end tutor recommendation system using FAISS HNSW retrieval, ALS matrix factorization, and LightGBM LambdaRank across 25 behavioral features
+- Developed a multi-role conversational AI system using LangGraph and FastAPI with SQLite knowledge storage
+
+**Amazon ML Summer School** *(Aug – Sep 2025)*
+- Selected top 0.3% from 80,000+ applicants
+- Trained on production ML, recommendation systems, and deep learning by Amazon Applied Scientists
 
 ---
 
-## 🧰 Tech Stack
+## Projects
 
-### 🚀 **Languages**
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+**SmartSerpent** — `MobileNetV2 · TensorFlow · Flask · Gemini API`
+Snake identification system achieving 87% accuracy (7.7% above CNN baseline) on 3,929 images using transfer learning. Integrated Gemini for real-time venom and first-aid guidance.
 
-### 🤖 **Machine Learning & AI**
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />  
-Transformers • BERT • CNNs • RNNs • NLP • Computer Vision • Time Series
-
-### 🛠️ **Development & Deployment**
-<img src="https://skillicons.dev/icons?i=flask,streamlit,docker,html,css,js" />
-
-### 🗄️ **Databases**
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+**LinguaMentor** — `LangChain · Ollama · FastAPI · MongoDB · JWT`
+AI language tutoring platform with contextual multi-turn memory and a JWT-secured backend.
 
 ---
 
-## 📂 Featured Repositories
+## Stack
 
-Here’s where I build **actual AI systems**, not toy ML models:
-
-👉 **GitHub Profile:**  
-🔗 https://github.com/Hemanthlokesh1705
-
-> *All my ML/NLP/CV work lives here — real-world code, clean structure, deployable apps.*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemanthlokesh1705&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hemanthlokesh1705&theme=tokyonight&hide_border=true" width="70%" />
-</p>
+| | |
+|---|---|
+| **Languages** | Python, C++, C, JavaScript |
+| **AI / LLMs** | LangChain, LangGraph, HuggingFace Transformers, RAG, Ollama |
+| **ML** | TensorFlow, Scikit-learn, LightGBM (LambdaRank), ALS, Sentence Transformers |
+| **Backend** | FastAPI, REST APIs |
+| **Databases** | MongoDB, MySQL, ChromaDB, FAISS, SQLite |
 
 ---
 
-## 🧩 Coding Profiles
+## Competitive Programming
 
-<p align="left">
-
-  <a href="https://leetcode.com/u/Hemanth1705/">
-    <img src="https://img.shields.io/badge/LeetCode-Hemanth1705-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/hemanthlthl3">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-HemanthL-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-
-  <a href="https://codeforces.com/profile/Hemanth1705">
-    <img src="https://img.shields.io/badge/Codeforces-Hemanth1705-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-
-</p>
-
+| Platform | Handle | Stats |
+|---|---|---|
+| LeetCode | [Hemanth1705](https://leetcode.com/u/Hemanth1705/) | 600+ solved · 365+ day streak |
+| Codeforces | [Hemanth1705](https://codeforces.com/profile/Hemanth1705) | Active |
+| GeeksforGeeks | [hemanthlthl3](https://www.geeksforgeeks.org/profile/hemanthlthl3) | Active |
 
 ---
 
-## 📈 Activity Graph
+## Awards
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hemanthlokesh1705&theme=react-dark&area=true&hide_border=true" />
-</p>
-
----
-
-If you're looking for someone who can **develop AI + ship AI**,  
-I’m your guy.
+- 🥇 1st Place — Department Coding Contest (100+ participants), 2025
+- 🥈 Runner-Up — Cyber Quest Hackathon (Team Lead), 2025
+- Organized Byte Battle coding event for 200+ participants, 2025
 
 ---
 
-<p align="center">
-  <b>⚡ Turning ideas into intelligent systems — one model at a time.</b>
-</p>
+## Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Hemanthlokesh1705&theme=tokyonight&hide_border=true)
