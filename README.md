@@ -2,7 +2,7 @@
 <p align="center">AI Engineer &middot; CSE-AI, DSATM &middot; Bengaluru</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+%7C+NLP;FAISS+%7C+LangGraph+%7C+LightGBM;600%2B+LeetCode+%7C+Top+0.3%25+Amazon+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+%7C+NLP;FAISS+%7C+LangGraph+%7C+LightGBM;700%2B+LeetCode+%7C+Top+0.3%25+Amazon+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
