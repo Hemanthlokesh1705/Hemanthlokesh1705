@@ -1,87 +1,120 @@
 <h1 align="center">Hemanth L</h1>
-<p align="center">AI Engineer &middot; CSE-AI, DSATM &middot; Bengaluru</p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+ML+%7C+NLP;FAISS+%7C+LangGraph+%7C+LightGBM;600%2B+LeetCode+%7C+Top+0.3%25+Amazon+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=700&lines=AI+Engineer;ML+Systems;LLM+Applications;RAG+%26+Recommendation+Systems;Competitive+Programming" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hemanth-l-076680294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/Hemanthlokesh1705"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="https://leetcode.com/u/Hemanth1705/"><img src="https://img.shields.io/badge/LeetCode-600%2B_solved-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>&nbsp;
-  <a href="https://codeforces.com/profile/Hemanth1705"><img src="https://img.shields.io/badge/Codeforces-Hemanth1705-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>&nbsp;
-  <a href="mailto:hemanthlokesh58@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hemanth-l-076680294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Hemanthlokesh1705"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://leetcode.com/u/Hemanth1705/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/Hemanth1705"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/hemanthlthl3"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="mailto:hemanthlokesh58@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20ML%20School%20'25-FF9900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-1F8ACB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%2FML-2F8D46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Applications-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Real%20World%20Projects-C0392B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-2F8D46?style=for-the-badge" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-8A2BE2?style=for-the-badge" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Recommendation%20Systems-1F8ACB?style=for-the-badge" alt="Recommendation Systems" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-FF6B6B?style=for-the-badge" alt="Competitive Programming" />
 </p>
 
 ---
-## About
 
-I'm a final-year Computer Science (AI) student focused on building production-ready machine learning systems.
+## About Me
 
-My recent work includes developing recommendation engines using ranking and retrieval techniques, building conversational AI systems with agent workflows, and deploying AI applications using FastAPI.
+I'm a Computer Science (AI) student focused on building practical, production-ready machine learning and AI systems. My work sits at the intersection of machine learning, recommendation systems, retrieval, LLM applications, and backend engineering.
 
-Previously, I worked as an AI Engineer Intern at Tunect, where I built recommendation and conversational AI products. I was also selected for Amazon ML Summer School, where I gained exposure to large-scale machine learning and recommendation systems.
+I enjoy turning research-driven ideas into scalable products — from recommendation pipelines and ranking models to conversational AI workflows and inference systems. I also like solving algorithmic problems and strengthening the foundations behind efficient software engineering.
 
-My interests lie in Machine Learning, Recommendation Systems, Information Retrieval, Large Language Models, and AI Infrastructure. I enjoy solving algorithmic problems, building real-world products, and translating research ideas into practical applications.
-
-I'm currently seeking Software Engineering, Machine Learning Engineering, and AI Engineering opportunities where I can apply my skills, contribute to impactful products, and continue growing as an engineer.
-
-
-
-
+Currently, I’m exploring intelligent systems, RAG pipelines, LLM orchestration, and end-to-end AI product development.
 
 ---
 
 ## Experience
 
-**AI Engineer Intern — Tunect** `Feb 2026 – May 2026`
-- Recommendation system: FAISS HNSW + ALS matrix factorization + LightGBM LambdaRank across 25 behavioral features
-- Multi-role conversational AI with LangGraph, FastAPI, and SQLite knowledge storage
+### AI Engineer Intern — Tunect
+`2025 – 2026`
+- Built recommendation systems using FAISS HNSW, ALS-based collaborative filtering, and LightGBM LambdaRank
+- Developed multi-role conversational AI experiences with LangGraph, FastAPI, and SQLite-backed knowledge storage
+- Worked on retrieval and personalized ranking pipelines for real-world product use cases
 
-**Amazon ML Summer School — Amazon** `Aug – Sep 2025`
-- Selected top 0.3% from 80,000+ applicants
-- Trained on production ML and recommendation systems by Amazon Applied Scientists
-
----
-
-## Stack
-
-| | |
-|---|---|
-| **Languages** | Python · C++ · C · JavaScript |
-| **AI / LLMs** | LangChain · LangGraph · HuggingFace Transformers · RAG · Ollama |
-| **ML** | TensorFlow · Scikit-learn · LightGBM (LambdaRank) · ALS · Sentence Transformers |
-| **Backend** | FastAPI · REST APIs |
-| **Databases** | MongoDB · MySQL · ChromaDB · FAISS · SQLite |
+### Amazon ML Summer School — Amazon
+`2025`
+- Selected through a highly competitive AI/ML program focused on applied machine learning and recommendation systems
+- Gained hands-on exposure to production ML workflows and real-world system design principles
 
 ---
 
-## Competitive programming
+## Tech Stack
 
-| Platform | Handle |
-|---|---|
-| LeetCode | [Hemanth1705](https://leetcode.com/u/Hemanth1705/) — 600+ solved |
-| Codeforces | [Hemanth1705](https://codeforces.com/profile/Hemanth1705) |
-| GeeksforGeeks | [hemanthlthl3](https://www.geeksforgeeks.org/profile/hemanthlthl3) |
+### Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+### AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3E?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-6A5AE0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-4C8BF5?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+### Backend & Data
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-7A5AF8?style=flat-square" />
+</p>
 
 ---
 
-## Awards
+## Coding Profiles
 
-- 🥇 1st Place — Department Coding Contest (100+ participants), 2025
-- 🥈 Runner-Up — Cyber Quest Hackathon (Team Lead), 2025
-- Organized Byte Battle for 200+ participants, 2025
+I enjoy building problem-solving intuition and improving algorithmic thinking through regular practice.
+
+<p align="center">
+  <a href="https://leetcode.com/u/Hemanth1705/"><img src="https://img.shields.io/badge/LeetCode-Hemanth1705-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" /></a>
+  <a href="https://codeforces.com/profile/Hemanth1705"><img src="https://img.shields.io/badge/Codeforces-Hemanth1705-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/hemanthlthl3"><img src="https://img.shields.io/badge/GeeksforGeeks-hemanthlthl3-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile" /></a>
+</p>
 
 ---
 
-## Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=Hemanthlokesh1705&theme=tokyonight&hide_border=true)
+## Highlights
+
+- Recommendation systems and ranking pipelines
+- LLM and RAG-based AI applications
+- Conversational agents and workflow orchestration
+- Applied ML and backend integration
+- Competitive programming and algorithmic problem solving
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hemanthlokesh1705&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hemanthlokesh1705&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hemanthlokesh1705&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning, building, and shipping AI systems.</i>
+</p>
